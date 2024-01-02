@@ -68,7 +68,7 @@ li{
 
 /* This seems to be messed up when printing the page to a PDF, what is printed is not what is rendered */
 #sidebar #contact text {
-  padding-left: 0.5vw;
+  padding-left: 0.9vw;
 }
 
 /* main */
